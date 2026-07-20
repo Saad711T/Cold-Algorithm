@@ -5,3 +5,10 @@ It's based on the classic SIR model with three states :
 - Healthy
 - Cold
 - Removed
+
+## Build & Run
+In your local terminal run this :
+```bash
+g++ -O2 -o cold main.cpp
+./cold
+```
