@@ -16,5 +16,10 @@ g++ -O2 -o cold main.cpp
 ./cold
 ```
 
+### Output :
+
+<img src="output.png" width="700px" alt="output" >
+
+
 ### Credits :
 [0xSaad](https://x.com/0xdonzdev)
