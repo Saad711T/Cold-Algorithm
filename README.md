@@ -12,3 +12,6 @@ In your local terminal run this :
 g++ -O2 -o cold main.cpp
 ./cold
 ```
+
+### Credits :
+[0xSaad](https://x.com/0xdonzdev)
